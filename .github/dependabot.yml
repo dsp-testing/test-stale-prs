@@ -13,3 +13,7 @@ updates:
       day: 'monday'
       timezone: 'US/Mountain'
     open-pull-requests-limit: 5
+    groups:
+      node-dependencies:
+        patterns:
+          - "*"
